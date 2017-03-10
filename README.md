@@ -1,0 +1,1 @@
+# Faktorenanalysen-in-R
