@@ -1,8 +1,9 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Exploratorische und konfirmatorische Faktorenanalysen
+description : Einige Grundlagen zum Thema
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:724564dc32
 ## A really bad movie
