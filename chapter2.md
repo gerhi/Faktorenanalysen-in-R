@@ -6,6 +6,7 @@ description : Wie berechnet man exploratorische Faktorenanalysen in R? Wichtige 
 
 
 *** =instructions
+sad
 
 *** =hint
 
