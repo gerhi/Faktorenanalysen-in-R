@@ -1,7 +1,7 @@
 title            : Faktorenanalysen in R
 instructors      :
- - g.hirschfeld@hs-osnabrueck.de
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university       : DataCamp
+ - Gerrit Hirschfeld g.hirschfeld@hs-osnabrueck.de
+description      : Faktorenanalysen gehören zum Handwerkszeug von Psychologen. Dieser Kurs soll Ihnen zeigen, wie man exploratorischen und konfirmatorische Faktorenanalysen in R berechnen lassen kann. Wir werden dafür mit einem frei-verfügbaren Datensatz arbeiten.
+university       : Hochschule Osnabrueck
 difficulty_level : 2
-time_needed      : 1 hour
+time_needed      : 4 hour
